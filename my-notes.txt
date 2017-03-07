@@ -1,0 +1,8 @@
+Getting Started:
+
+* Requires webpack
+* Use create-react-app
+* Mounting point is main html element which you attach your app
+
+
+* React on Codepen: http://codepen.io/necolas/pen/PZzwBR — Should be built in. CP maybe not the best place to store exampeles: https://blog.codepen.io/2015/05/19/babel-now-on-codepen-write-es6-javascript-and-react-jsx/
